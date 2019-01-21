@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>지킬 템플릿 블로깅</description>
+    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
+    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Jan 2019 17:43:45 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 17:43:45 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>첫포스트</title>
+        <description>&lt;h2 id=&quot;첫-블로그-포스트-입니다&quot;&gt;첫 블로그 포스트 입니다.&lt;/h2&gt;
+
+&lt;p&gt;지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.
+지킬은 심플한 정적 사이트 생성기 입니다.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/2018/01/11/customer-service.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/2018/01/11/customer-service.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+# Site
+name: "미디엄 블로그"
+description: "지킬 템플릿 블로깅"
+meta_description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+mailchimp-list: ''
+
+# Authors
+authors:
+  sal:
+    name: chulgil
+    display_name: Chulgil
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: contact@chulgil.me
+    web: https://blog.chulgil.me
+    twitter: https://twitter.com/chulgil_lee
+    description: "코딩으로 세상에 작은변화라도 주고싶은 평범한 개발자입니다."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
